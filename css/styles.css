@@ -1,0 +1,79 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+  background-color: rgb(255, 255, 255);
+  padding: 10px 0;
+}
+
+.marker {
+  width: 200px;
+  height: 25px;
+  margin: 10px auto;
+}
+
+.cap {
+  width: 60px;
+  height: 25px;
+}
+
+.sleeve {
+  width: 110px;
+  height: 25px;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-left: 10px double rgba(0, 0, 0, 0.75);
+}
+
+.cap, .sleeve {
+  display: inline-block;
+}
+
+.label {
+    right: auto;
+    font-size: 16px;
+}
+
+.red {
+  background: #ED0A3F	;
+  box-shadow: 0 0 20px 0;
+}
+
+.green {
+  background: #1CAC78;
+  box-shadow: 0 0 20px 0;
+}
+
+.blue {
+  background:#0066FF;
+  box-shadow: 0 0 20px 0;
+}
+  
+.yellow {
+    background:#FCE883;
+    box-shadow: 0 0 20px 0;
+}
+  
+.purple {
+    background:#926EAE	;
+    box-shadow: 0 0 20px 0;
+}
+  
+.brown {
+    background:#B4674D	;
+    box-shadow: 0 0 20px 0;
+}
+  
+.orange {
+    background:#FF7538	;
+    box-shadow: 0 0 20px 0;
+}
+  
+.black {
+    background:#000000	;
+    box-shadow: 0 0 20px 0;
+}
