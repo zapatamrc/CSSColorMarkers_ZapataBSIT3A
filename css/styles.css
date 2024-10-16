@@ -47,6 +47,11 @@ footer {
     font-size: 10px;
     position: absolute;
     
+    
+}
+
+p {
+  padding: 0 0 0 5px;
 }
 
 .red {
