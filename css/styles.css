@@ -4,6 +4,14 @@ html {
 
 h1 {
     text-align: center;
+    font-style: bold;
+    background: linear-gradient(#ED0A3F, #1CAC78, #0066FF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+footer {
+    text-align: center;
 }
 
 .container {
@@ -76,5 +84,45 @@ h1 {
   
 .black {
     background:#000000	;
+    box-shadow: 0 0 20px 0;
+}
+
+.white {
+  background: #ededed	;
+  box-shadow: 0 0 20px 0;
+}
+
+.cyan {
+  background: #00ffff;
+  box-shadow: 0 0 20px 0;
+}
+
+.fuchsia {
+  background:#ff00FF;
+  box-shadow: 0 0 20px 0;
+}
+  
+.bgreen {
+    background:#0D98BA;
+    box-shadow: 0 0 20px 0;
+}
+  
+.yellowg {
+    background:#c5e384	;
+    box-shadow: 0 0 20px 0;
+}
+  
+.rorange {
+    background:#ff5349	;
+    box-shadow: 0 0 20px 0;
+}
+  
+.yorange {
+    background:#FFb653	;
+    box-shadow: 0 0 20px 0;
+}
+  
+.gray {
+    background:#95918c	;
     box-shadow: 0 0 20px 0;
 }
